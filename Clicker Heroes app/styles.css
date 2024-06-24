@@ -1,0 +1,12 @@
+.CustomButton{
+    -fx-background-color : #239c9c;
+    -fx-background-radius : 30 0 0 30;
+}
+.CustomButton:hover{
+    -fx-background-color : #07f;
+    -fx-background-radius : 30 0 0 30;
+}
+.CustomButton:pressed{
+    -fx-background-color : #239c9c;
+    -fx-background-radius : 30 0 0 30;
+}
